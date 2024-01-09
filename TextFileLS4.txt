@@ -10,3 +10,17 @@ Integration Testing
 - It is type of (blackbox/whitebox testing)
 
 By Harriz
+
+
+Updated by yanyi 08_yanyi
+
+System testing
+what is system Testing ?
+System Testing is conducted by 
+it is type of (blackbox/whitebox testing)
+
+Acceptance testing 
+what is acceptance Testing?
+Accptance Testing is conducted by
+
+It is type of (blackbox/whitebox testing)
